@@ -15,6 +15,8 @@ out_path     <- "Y:/Agilent QQQ-4 6495C/Serge/Data/20260204_VLTR559_Full PK Stud
 sheet_form   <- "Formatted"
 sheet_high   <- "Highlighted"      # sheet to read
 
+new_variable <- "testing to make sure merge works"
+
 # Ensure destination directory exists
 dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 
