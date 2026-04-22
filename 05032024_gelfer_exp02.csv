@@ -1,0 +1,662 @@
+Replicate,File Name,Molecule List,Molecule,Molecule Formula,Precursor Mz,Precursor Adduct,Isotope Label Type,Best Retention Time,Acquired Time,Molecule Note,Max Height,Total Area
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C22:1) 13Z-Docosenoic Acid,C22H42O2,337.311205,[M-H],light,8.01,5/1/2024 8:41,DETECTED. RT confirmed at 7.6,637,2772
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,7.85,5/1/2024 8:41,DETECTED. RT confirmed at 8.4,728,1505
+cleanup_01,6495c_CE_pos_cleanup_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.84,5/2/2024 3:24,DETECTED. RT confirmed at 8.4,308,86
+PQC_01,6495c_CE_pos_PQC_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 13:47,DETECTED. RT confirmed at 8.4,17589,66717
+PQC_02,6495c_CE_pos_PQC_02.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 14:04,DETECTED. RT confirmed at 8.4,18462,71193
+PQC_03,6495c_CE_pos_PQC_03.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 14:21,DETECTED. RT confirmed at 8.4,20095,71957
+PQC_04,6495c_CE_pos_PQC_04.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 14:38,DETECTED. RT confirmed at 8.4,18358,70067
+PQC_05,6495c_CE_pos_PQC_05.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.42,5/1/2024 16:37,DETECTED. RT confirmed at 8.4,19458,67458
+PQC_06,6495c_CE_pos_PQC_06.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.38,5/1/2024 18:36,DETECTED. RT confirmed at 8.4,18187,61878
+PQC_07,6495c_CE_pos_PQC_07.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/1/2024 20:35,DETECTED. RT confirmed at 8.4,16852,58883
+PQC_08,6495c_CE_pos_PQC_08.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/1/2024 22:35,DETECTED. RT confirmed at 8.4,16395,56477
+PQC_09,6495c_CE_pos_PQC_09.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/2/2024 0:34,DETECTED. RT confirmed at 8.4,16570,58072
+PQC_10,6495c_CE_pos_PQC_10.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/2/2024 2:33,DETECTED. RT confirmed at 8.4,16143,59124
+mb_A_01,6495c_CE_pos_mb_A_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.43,5/1/2024 13:13,DETECTED. RT confirmed at 8.4,481,1215
+mb_A_02,6495c_CE_pos_mb_A_02.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.57,5/2/2024 2:50,DETECTED. RT confirmed at 8.4,165,233
+mb_B_01,6495c_CE_pos_mb_B_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 13:30,DETECTED. RT confirmed at 8.4,552,1200
+mb_B_02,6495c_CE_pos_mb_B_02.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.51,5/2/2024 3:07,DETECTED. RT confirmed at 8.4,366,659
+sb_00,6495c_CE_pos_sb_00.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.54,5/1/2024 8:58,DETECTED. RT confirmed at 8.4,425,1999
+sb_01,6495c_CE_pos_sb_01.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.56,5/1/2024 10:06,DETECTED. RT confirmed at 8.4,467,378
+sb_02,6495c_CE_pos_sb_02.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,9.25,5/1/2024 12:56,DETECTED. RT confirmed at 8.4,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/2/2024 1:42,DETECTED. RT confirmed at 8.4,83169,283957
+WT_0_B,6495c_CE_pos_WT_0B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 16:20,DETECTED. RT confirmed at 8.4,91266,331971
+WT_0_C,6495c_CE_pos_WT_0C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 16:54,DETECTED. RT confirmed at 8.4,124068,449003
+WT_10_A,6495c_CE_pos_WT_10A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/1/2024 22:18,DETECTED. RT confirmed at 8.4,23193,80989
+WT_10_B,6495c_CE_pos_WT_10B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 16:03,DETECTED. RT confirmed at 8.4,12302,44977
+WT_10_C,6495c_CE_pos_WT_10C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 17:45,DETECTED. RT confirmed at 8.4,17321,61811
+WT_100_A,6495c_CE_pos_WT_100A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.38,5/1/2024 20:52,DETECTED. RT confirmed at 8.4,24779,82106
+WT_100_B,6495c_CE_pos_WT_100B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 15:29,DETECTED. RT confirmed at 8.4,14639,59659
+WT_100_C,6495c_CE_pos_WT_100C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/2/2024 0:00,DETECTED. RT confirmed at 8.4,20415,75090
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/1/2024 21:26,DETECTED. RT confirmed at 8.4,22249,77447
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 17:28,DETECTED. RT confirmed at 8.4,19562,72839
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/1/2024 20:18,DETECTED. RT confirmed at 8.4,20791,67826
+IN_0_A,6495c_CE_pos_IN_0A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.38,5/1/2024 19:44,DETECTED. RT confirmed at 8.4,44994,157120
+IN_0_B,6495c_CE_pos_IN_0B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/2/2024 1:25,DETECTED. RT confirmed at 8.4,49154,172623
+IN_0_C,6495c_CE_pos_IN_0C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 18:02,DETECTED. RT confirmed at 8.4,53982,197372
+IN_10_A,6495c_CE_pos_IN_10A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/1/2024 23:26,DETECTED. RT confirmed at 8.4,5308,22659
+IN_10_B,6495c_CE_pos_IN_10B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 15:12,DETECTED. RT confirmed at 8.4,9490,34797
+IN_10_C,6495c_CE_pos_IN_10C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.38,5/1/2024 19:27,DETECTED. RT confirmed at 8.4,8909,31388
+IN_100_A,6495c_CE_pos_IN_100A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/2/2024 1:08,DETECTED. RT confirmed at 8.4,6185,21088
+IN_100_B,6495c_CE_pos_IN_100B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.37,5/1/2024 19:10,DETECTED. RT confirmed at 8.4,4536,16393
+IN_100_C,6495c_CE_pos_IN_100C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/1/2024 20:02,DETECTED. RT confirmed at 8.4,6929,27204
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/2/2024 0:51,DETECTED. RT confirmed at 8.4,5589,18352
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 14:55,DETECTED. RT confirmed at 8.4,6497,25008
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/1/2024 23:09,DETECTED. RT confirmed at 8.4,5487,20068
+INR_0_A,6495c_CE_pos_INR_0A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/2/2024 0:17,DETECTED. RT confirmed at 8.4,19589,68351
+INR_0_B,6495c_CE_pos_INR_0B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/1/2024 23:43,DETECTED. RT confirmed at 8.4,14607,54953
+INR_0_C,6495c_CE_pos_INR_0C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.41,5/1/2024 15:46,DETECTED. RT confirmed at 8.4,27193,94773
+INR_10_A,6495c_CE_pos_INR_10A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.36,5/1/2024 22:52,DETECTED. RT confirmed at 8.4,3607,14728
+INR_10_B,6495c_CE_pos_INR_10B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/1/2024 22:00,DETECTED. RT confirmed at 8.4,3381,14873
+INR_10_C,6495c_CE_pos_INR_10C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.39,5/1/2024 18:19,DETECTED. RT confirmed at 8.4,3061,11340
+INR_100_A,6495c_CE_pos_INR_100A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/1/2024 21:43,DETECTED. RT confirmed at 8.4,2988,14354
+INR_100_B,6495c_CE_pos_INR_100B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.4,5/1/2024 17:11,DETECTED. RT confirmed at 8.4,4359,19149
+INR_100_C,6495c_CE_pos_INR_100C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/2/2024 1:59,DETECTED. RT confirmed at 8.4,7716,27166
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.34,5/1/2024 21:09,DETECTED. RT confirmed at 8.4,2267,8524
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.37,5/1/2024 18:53,DETECTED. RT confirmed at 8.4,2542,11160
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Mono-unsaturated Fatty Acids_VeryLong,(C24:1) 15-Tetracosenoic acid,C24H46O2,365.342505,[M-H],light,8.35,5/2/2024 2:16,DETECTED. RT confirmed at 8.4,3396,14170
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.84,5/1/2024 8:41,DETECTED. RT confirmed at 6.7,0,0
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.84,5/2/2024 3:24,DETECTED. RT confirmed at 6.7,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.78,5/1/2024 13:47,DETECTED. RT confirmed at 6.7,1611,7844
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.8,5/1/2024 14:04,DETECTED. RT confirmed at 6.7,1407,8612
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.79,5/1/2024 14:21,DETECTED. RT confirmed at 6.7,1337,8881
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.78,5/1/2024 14:38,DETECTED. RT confirmed at 6.7,1469,8153
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.79,5/1/2024 16:37,DETECTED. RT confirmed at 6.7,1422,7732
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.76,5/1/2024 18:36,DETECTED. RT confirmed at 6.7,1329,7527
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/1/2024 20:35,DETECTED. RT confirmed at 6.7,1285,7484
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.7,5/1/2024 22:35,DETECTED. RT confirmed at 6.7,1139,6714
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/2/2024 0:34,DETECTED. RT confirmed at 6.7,1147,6161
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/2/2024 2:33,DETECTED. RT confirmed at 6.7,1084,5645
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,7.15,5/1/2024 13:13,DETECTED. RT confirmed at 6.7,353,186
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,7.04,5/2/2024 2:50,DETECTED. RT confirmed at 6.7,302,317
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,7.12,5/1/2024 13:30,DETECTED. RT confirmed at 6.7,386,371
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,7.02,5/2/2024 3:07,DETECTED. RT confirmed at 6.7,337,225
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.84,5/1/2024 8:58,DETECTED. RT confirmed at 6.7,0,0
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.84,5/1/2024 10:06,DETECTED. RT confirmed at 6.7,0,0
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.84,5/1/2024 12:56,DETECTED. RT confirmed at 6.7,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/2/2024 1:42,DETECTED. RT confirmed at 6.7,4905,29176
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.78,5/1/2024 16:20,DETECTED. RT confirmed at 6.7,5166,32768
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.78,5/1/2024 16:54,DETECTED. RT confirmed at 6.7,6343,43714
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/1/2024 22:18,DETECTED. RT confirmed at 6.7,1930,11278
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.78,5/1/2024 16:03,DETECTED. RT confirmed at 6.7,1147,5315
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.8,5/1/2024 17:45,DETECTED. RT confirmed at 6.7,1405,7271
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.74,5/1/2024 20:52,DETECTED. RT confirmed at 6.7,1382,7997
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.81,5/1/2024 15:29,DETECTED. RT confirmed at 6.7,1021,5166
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/2/2024 0:00,DETECTED. RT confirmed at 6.7,1014,5461
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/1/2024 21:26,DETECTED. RT confirmed at 6.7,1015,4658
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.77,5/1/2024 17:28,DETECTED. RT confirmed at 6.7,1117,5774
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/1/2024 20:18,DETECTED. RT confirmed at 6.7,957,5101
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/1/2024 19:44,DETECTED. RT confirmed at 6.7,2458,16900
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/2/2024 1:25,DETECTED. RT confirmed at 6.7,2585,15943
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.77,5/1/2024 18:02,DETECTED. RT confirmed at 6.7,3154,19982
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/1/2024 23:26,DETECTED. RT confirmed at 6.7,998,4703
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.81,5/1/2024 15:12,DETECTED. RT confirmed at 6.7,1400,7691
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.76,5/1/2024 19:27,DETECTED. RT confirmed at 6.7,1183,6229
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/2/2024 1:08,DETECTED. RT confirmed at 6.7,675,2586
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/1/2024 19:10,DETECTED. RT confirmed at 6.7,600,1857
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/1/2024 20:02,DETECTED. RT confirmed at 6.7,604,3063
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/2/2024 0:51,DETECTED. RT confirmed at 6.7,470,1233
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.79,5/1/2024 14:55,DETECTED. RT confirmed at 6.7,534,1788
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.69,5/1/2024 23:09,DETECTED. RT confirmed at 6.7,600,2357
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.73,5/2/2024 0:17,DETECTED. RT confirmed at 6.7,991,8308
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.7,5/1/2024 23:43,DETECTED. RT confirmed at 6.7,984,5564
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.79,5/1/2024 15:46,DETECTED. RT confirmed at 6.7,1699,10779
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.71,5/1/2024 22:52,DETECTED. RT confirmed at 6.7,856,4078
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/1/2024 22:00,DETECTED. RT confirmed at 6.7,700,2972
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.76,5/1/2024 18:19,DETECTED. RT confirmed at 6.7,566,1895
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/1/2024 21:43,DETECTED. RT confirmed at 6.7,547,1760
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.81,5/1/2024 17:11,DETECTED. RT confirmed at 6.7,733,3748
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.7,5/2/2024 1:59,DETECTED. RT confirmed at 6.7,1103,5020
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/1/2024 21:09,DETECTED. RT confirmed at 6.7,650,2728
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.75,5/1/2024 18:53,DETECTED. RT confirmed at 6.7,514,2120
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:2) 13,16-docosadienoic acid",C22H40O2,335.295555,[M-H],light,6.72,5/2/2024 2:16,DETECTED. RT confirmed at 6.7,664,3279
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 8:41,DETECTED. RT confirmed at 5.9,0,0
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/2/2024 3:24,DETECTED. RT confirmed at 5.9,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.04,5/1/2024 13:47,DETECTED. RT confirmed at 5.9,3552,19775
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.01,5/1/2024 14:04,DETECTED. RT confirmed at 5.9,3519,19894
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.04,5/1/2024 14:21,DETECTED. RT confirmed at 5.9,3949,19979
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 14:38,DETECTED. RT confirmed at 5.9,3741,19125
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.05,5/1/2024 16:37,DETECTED. RT confirmed at 5.9,3738,19044
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.98,5/1/2024 18:36,DETECTED. RT confirmed at 5.9,3266,17387
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/1/2024 20:35,DETECTED. RT confirmed at 5.9,3021,15773
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/1/2024 22:35,DETECTED. RT confirmed at 5.9,3304,14618
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 0:34,DETECTED. RT confirmed at 5.9,3318,14891
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/2/2024 2:33,DETECTED. RT confirmed at 5.9,3031,13624
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 13:13,DETECTED. RT confirmed at 5.9,0,0
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/2/2024 2:50,DETECTED. RT confirmed at 5.9,0,0
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 13:30,DETECTED. RT confirmed at 5.9,0,0
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/2/2024 3:07,DETECTED. RT confirmed at 5.9,0,0
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 8:58,DETECTED. RT confirmed at 5.9,0,0
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 10:06,DETECTED. RT confirmed at 5.9,0,0
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 12:56,DETECTED. RT confirmed at 5.9,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 1:42,DETECTED. RT confirmed at 5.9,6966,36927
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 16:20,DETECTED. RT confirmed at 5.9,7399,43094
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 16:54,DETECTED. RT confirmed at 5.9,7333,42813
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 22:18,DETECTED. RT confirmed at 5.9,6641,32821
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.04,5/1/2024 16:03,DETECTED. RT confirmed at 5.9,4554,20352
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 17:45,DETECTED. RT confirmed at 5.9,4792,24393
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 20:52,DETECTED. RT confirmed at 5.9,7918,37705
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 15:29,DETECTED. RT confirmed at 5.9,4426,22327
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 0:00,DETECTED. RT confirmed at 5.9,5491,26075
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/1/2024 21:26,DETECTED. RT confirmed at 5.9,6124,29264
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.02,5/1/2024 17:28,DETECTED. RT confirmed at 5.9,5933,30195
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/1/2024 20:18,DETECTED. RT confirmed at 5.9,5969,26861
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.98,5/1/2024 19:44,DETECTED. RT confirmed at 5.9,3154,17856
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/2/2024 1:25,DETECTED. RT confirmed at 5.9,3876,20128
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 18:02,DETECTED. RT confirmed at 5.9,4176,22020
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.94,5/1/2024 23:26,DETECTED. RT confirmed at 5.9,2310,10574
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.04,5/1/2024 15:12,DETECTED. RT confirmed at 5.9,4418,20660
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.99,5/1/2024 19:27,DETECTED. RT confirmed at 5.9,3465,15619
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/2/2024 1:08,DETECTED. RT confirmed at 5.9,2768,11006
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 19:10,DETECTED. RT confirmed at 5.9,1712,7170
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 20:02,DETECTED. RT confirmed at 5.9,3119,14189
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 0:51,DETECTED. RT confirmed at 5.9,2427,8540
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 14:55,DETECTED. RT confirmed at 5.9,2714,12016
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/1/2024 23:09,DETECTED. RT confirmed at 5.9,2346,9692
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 0:17,DETECTED. RT confirmed at 5.9,1007,7408
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.94,5/1/2024 23:43,DETECTED. RT confirmed at 5.9,929,5507
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.03,5/1/2024 15:46,DETECTED. RT confirmed at 5.9,1425,11273
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/1/2024 22:52,DETECTED. RT confirmed at 5.9,1495,6446
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/1/2024 22:00,DETECTED. RT confirmed at 5.9,1162,4309
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.01,5/1/2024 18:19,DETECTED. RT confirmed at 5.9,1063,3213
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/1/2024 21:43,DETECTED. RT confirmed at 5.9,976,4446
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6.02,5/1/2024 17:11,DETECTED. RT confirmed at 5.9,1867,8732
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.95,5/2/2024 1:59,DETECTED. RT confirmed at 5.9,3028,14478
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.97,5/1/2024 21:09,DETECTED. RT confirmed at 5.9,1461,6560
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,6,5/1/2024 18:53,DETECTED. RT confirmed at 5.9,1389,5384
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:3) Docosatrienoic acid,C22H38O2,333.279905,[M-H],light,5.96,5/2/2024 2:16,DETECTED. RT confirmed at 5.9,1428,6508
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/1/2024 8:41,DETECTED. RT confirmed at 5.0,0,0
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/2/2024 3:24,DETECTED. RT confirmed at 5.0,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.03,5/1/2024 13:47,DETECTED. RT confirmed at 5.0,12972,74627
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 14:04,DETECTED. RT confirmed at 5.0,12115,71127
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.03,5/1/2024 14:21,DETECTED. RT confirmed at 5.0,12459,69789
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.02,5/1/2024 14:38,DETECTED. RT confirmed at 5.0,12706,68073
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 16:37,DETECTED. RT confirmed at 5.0,11369,63463
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.98,5/1/2024 18:36,DETECTED. RT confirmed at 5.0,10833,62291
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.95,5/1/2024 20:35,DETECTED. RT confirmed at 5.0,10617,60652
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/1/2024 22:35,DETECTED. RT confirmed at 5.0,10804,59147
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/2/2024 0:34,DETECTED. RT confirmed at 5.0,10166,56156
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/2/2024 2:33,DETECTED. RT confirmed at 5.0,10274,54027
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.06,5/1/2024 13:13,DETECTED. RT confirmed at 5.0,0,0
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/2/2024 2:50,DETECTED. RT confirmed at 5.0,0,0
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/1/2024 13:30,DETECTED. RT confirmed at 5.0,0,0
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/2/2024 3:07,DETECTED. RT confirmed at 5.0,0,0
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/1/2024 8:58,DETECTED. RT confirmed at 5.0,0,0
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.05,5/1/2024 10:06,DETECTED. RT confirmed at 5.0,0,0
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.06,5/1/2024 12:56,DETECTED. RT confirmed at 5.0,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/2/2024 1:42,DETECTED. RT confirmed at 5.0,22636,138290
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 16:20,DETECTED. RT confirmed at 5.0,24186,145724
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 16:54,DETECTED. RT confirmed at 5.0,27432,171229
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/1/2024 22:18,DETECTED. RT confirmed at 5.0,23517,133671
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.02,5/1/2024 16:03,DETECTED. RT confirmed at 5.0,11533,66195
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 17:45,DETECTED. RT confirmed at 5.0,16059,89198
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.96,5/1/2024 20:52,DETECTED. RT confirmed at 5.0,26983,151697
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 15:29,DETECTED. RT confirmed at 5.0,14365,82216
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/2/2024 0:00,DETECTED. RT confirmed at 5.0,20913,119647
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/1/2024 21:26,DETECTED. RT confirmed at 5.0,23974,135736
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 17:28,DETECTED. RT confirmed at 5.0,26653,141075
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.94,5/1/2024 20:18,DETECTED. RT confirmed at 5.0,20782,119125
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.97,5/1/2024 19:44,DETECTED. RT confirmed at 5.0,10386,57547
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.94,5/2/2024 1:25,DETECTED. RT confirmed at 5.0,10401,62532
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.02,5/1/2024 18:02,DETECTED. RT confirmed at 5.0,11194,66822
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.91,5/1/2024 23:26,DETECTED. RT confirmed at 5.0,6610,37892
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.02,5/1/2024 15:12,DETECTED. RT confirmed at 5.0,12646,71751
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.95,5/1/2024 19:27,DETECTED. RT confirmed at 5.0,10262,58174
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/2/2024 1:08,DETECTED. RT confirmed at 5.0,7777,41640
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.94,5/1/2024 19:10,DETECTED. RT confirmed at 5.0,5342,27103
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.94,5/1/2024 20:02,DETECTED. RT confirmed at 5.0,9572,54236
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/2/2024 0:51,DETECTED. RT confirmed at 5.0,6525,34012
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.01,5/1/2024 14:55,DETECTED. RT confirmed at 5.0,7927,45347
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/1/2024 23:09,DETECTED. RT confirmed at 5.0,7098,38483
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.91,5/2/2024 0:17,DETECTED. RT confirmed at 5.0,3479,19395
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.91,5/1/2024 23:43,DETECTED. RT confirmed at 5.0,2875,18369
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5,5/1/2024 15:46,DETECTED. RT confirmed at 5.0,5230,32994
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.9,5/1/2024 22:52,DETECTED. RT confirmed at 5.0,4031,25654
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/1/2024 22:00,DETECTED. RT confirmed at 5.0,3416,20597
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.98,5/1/2024 18:19,DETECTED. RT confirmed at 5.0,3015,15900
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/1/2024 21:43,DETECTED. RT confirmed at 5.0,3588,19163
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,5.02,5/1/2024 17:11,DETECTED. RT confirmed at 5.0,4777,29803
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/2/2024 1:59,DETECTED. RT confirmed at 5.0,7680,50509
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.93,5/1/2024 21:09,DETECTED. RT confirmed at 5.0,3779,23018
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.97,5/1/2024 18:53,DETECTED. RT confirmed at 5.0,3143,18699
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:4) Docosatetraenoic acid,C22H36O2,331.264255,[M-H],light,4.92,5/2/2024 2:16,DETECTED. RT confirmed at 5.0,4294,24747
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.34,5/1/2024 8:41,RT NOT CONFIRMED,384,1532
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.02,5/2/2024 3:24,RT NOT CONFIRMED,225,69
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.06,5/1/2024 13:47,RT NOT CONFIRMED,37810,245740
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 14:04,RT NOT CONFIRMED,38289,249822
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.07,5/1/2024 14:21,RT NOT CONFIRMED,36947,248342
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 14:38,RT NOT CONFIRMED,37761,242642
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.06,5/1/2024 16:37,RT NOT CONFIRMED,37063,228589
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4,5/1/2024 18:36,RT NOT CONFIRMED,33472,213842
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 20:35,RT NOT CONFIRMED,32867,203714
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/1/2024 22:35,RT NOT CONFIRMED,33159,197788
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 0:34,RT NOT CONFIRMED,33060,194821
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 2:33,RT NOT CONFIRMED,31489,181883
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/1/2024 13:13,RT NOT CONFIRMED,0,0
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.19,5/2/2024 2:50,RT NOT CONFIRMED,309,61
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/1/2024 13:30,RT NOT CONFIRMED,0,0
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/2/2024 3:07,RT NOT CONFIRMED,0,0
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.98,5/1/2024 8:58,RT NOT CONFIRMED,339,326
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.28,5/1/2024 10:06,RT NOT CONFIRMED,328,251
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/1/2024 12:56,RT NOT CONFIRMED,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 1:42,RT NOT CONFIRMED,79533,558543
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/1/2024 16:20,RT NOT CONFIRMED,75794,516456
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.04,5/1/2024 16:54,RT NOT CONFIRMED,98120,618628
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/1/2024 22:18,RT NOT CONFIRMED,63082,436541
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.06,5/1/2024 16:03,RT NOT CONFIRMED,38929,260673
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 17:45,RT NOT CONFIRMED,47227,307213
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.99,5/1/2024 20:52,RT NOT CONFIRMED,75085,511366
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 15:29,RT NOT CONFIRMED,47047,305948
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/2/2024 0:00,RT NOT CONFIRMED,54054,365479
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 21:26,RT NOT CONFIRMED,63265,437546
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.03,5/1/2024 17:28,RT NOT CONFIRMED,62830,410159
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 20:18,RT NOT CONFIRMED,62507,409432
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.99,5/1/2024 19:44,RT NOT CONFIRMED,30764,204910
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/2/2024 1:25,RT NOT CONFIRMED,37985,247994
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 18:02,RT NOT CONFIRMED,37475,241136
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/1/2024 23:26,RT NOT CONFIRMED,19593,136862
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.06,5/1/2024 15:12,RT NOT CONFIRMED,38209,247448
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.99,5/1/2024 19:27,RT NOT CONFIRMED,30841,194860
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 1:08,RT NOT CONFIRMED,22605,151632
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/1/2024 19:10,RT NOT CONFIRMED,13966,90492
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/1/2024 20:02,RT NOT CONFIRMED,28946,182610
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 0:51,RT NOT CONFIRMED,19978,127160
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.06,5/1/2024 14:55,RT NOT CONFIRMED,24133,156256
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.94,5/1/2024 23:09,RT NOT CONFIRMED,19069,127907
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/2/2024 0:17,RT NOT CONFIRMED,8927,59521
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/1/2024 23:43,RT NOT CONFIRMED,8377,56274
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.03,5/1/2024 15:46,RT NOT CONFIRMED,16932,108702
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 22:52,RT NOT CONFIRMED,12896,87444
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.96,5/1/2024 22:00,RT NOT CONFIRMED,9012,61705
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4,5/1/2024 18:19,RT NOT CONFIRMED,8210,52015
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 21:43,RT NOT CONFIRMED,9096,61863
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4.05,5/1/2024 17:11,RT NOT CONFIRMED,15481,104256
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 1:59,RT NOT CONFIRMED,23762,169937
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.97,5/1/2024 21:09,RT NOT CONFIRMED,11329,79462
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,4,5/1/2024 18:53,RT NOT CONFIRMED,9547,62905
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,"(C22:5) 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,329.248604,[M-H],light,3.95,5/2/2024 2:16,RT NOT CONFIRMED,10921,80874
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.29,5/1/2024 8:41,RT NOT CONFIRMED,825,6470
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/2/2024 3:24,RT NOT CONFIRMED,355,1271
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 13:47,RT NOT CONFIRMED,9704,67512
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.24,5/1/2024 14:04,RT NOT CONFIRMED,9397,65274
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 14:21,RT NOT CONFIRMED,10019,63016
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 14:38,RT NOT CONFIRMED,9132,61782
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 16:37,RT NOT CONFIRMED,8570,57043
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.2,5/1/2024 18:36,RT NOT CONFIRMED,8993,57122
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 20:35,RT NOT CONFIRMED,8521,54901
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 22:35,RT NOT CONFIRMED,8522,53981
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/2/2024 0:34,RT NOT CONFIRMED,8231,51281
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/2/2024 2:33,RT NOT CONFIRMED,8262,50291
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.22,5/1/2024 13:13,RT NOT CONFIRMED,0,0
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.3,5/2/2024 2:50,RT NOT CONFIRMED,361,839
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.36,5/1/2024 13:30,RT NOT CONFIRMED,355,585
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.09,5/2/2024 3:07,RT NOT CONFIRMED,317,1106
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.07,5/1/2024 8:58,RT NOT CONFIRMED,558,2852
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.49,5/1/2024 10:06,RT NOT CONFIRMED,413,1987
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 12:56,RT NOT CONFIRMED,302,114
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/2/2024 1:42,RT NOT CONFIRMED,16086,111443
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.25,5/1/2024 16:20,RT NOT CONFIRMED,19868,139807
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.23,5/1/2024 16:54,RT NOT CONFIRMED,21167,142302
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 22:18,RT NOT CONFIRMED,15862,110235
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.26,5/1/2024 16:03,RT NOT CONFIRMED,8634,61728
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.24,5/1/2024 17:45,RT NOT CONFIRMED,10839,72580
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/1/2024 20:52,RT NOT CONFIRMED,17295,121661
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.25,5/1/2024 15:29,RT NOT CONFIRMED,11533,75648
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.15,5/2/2024 0:00,RT NOT CONFIRMED,13782,98142
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 21:26,RT NOT CONFIRMED,14992,103071
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.23,5/1/2024 17:28,RT NOT CONFIRMED,15114,102449
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/1/2024 20:18,RT NOT CONFIRMED,13921,94776
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/1/2024 19:44,RT NOT CONFIRMED,7715,52039
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/2/2024 1:25,RT NOT CONFIRMED,9384,61309
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.23,5/1/2024 18:02,RT NOT CONFIRMED,7431,50780
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.13,5/1/2024 23:26,RT NOT CONFIRMED,5736,42091
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.28,5/1/2024 15:12,RT NOT CONFIRMED,9721,64800
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.19,5/1/2024 19:27,RT NOT CONFIRMED,8239,56456
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/2/2024 1:08,RT NOT CONFIRMED,6445,44561
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.19,5/1/2024 19:10,RT NOT CONFIRMED,3827,25340
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/1/2024 20:02,RT NOT CONFIRMED,7067,45682
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/2/2024 0:51,RT NOT CONFIRMED,5347,33843
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.27,5/1/2024 14:55,RT NOT CONFIRMED,5913,40813
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 23:09,RT NOT CONFIRMED,5362,35381
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.18,5/2/2024 0:17,RT NOT CONFIRMED,3139,20978
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/1/2024 23:43,RT NOT CONFIRMED,3015,18885
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.25,5/1/2024 15:46,RT NOT CONFIRMED,6017,36155
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.17,5/1/2024 22:52,RT NOT CONFIRMED,4472,28435
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.16,5/1/2024 22:00,RT NOT CONFIRMED,3897,26463
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.23,5/1/2024 18:19,RT NOT CONFIRMED,3070,17037
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.15,5/1/2024 21:43,RT NOT CONFIRMED,3861,25881
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.25,5/1/2024 17:11,RT NOT CONFIRMED,4505,31482
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.15,5/2/2024 1:59,RT NOT CONFIRMED,7603,52002
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.19,5/1/2024 21:09,RT NOT CONFIRMED,4463,28286
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.22,5/1/2024 18:53,RT NOT CONFIRMED,2968,20589
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_VeryLong,(C22:6) Docosahexaenoic acid,C22H32O2,327.232954,[M-H],light,3.15,5/2/2024 2:16,RT NOT CONFIRMED,4376,31236
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 8:41,DETECTED. RT confirmed at 4.8,0,0
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/2/2024 3:24,DETECTED. RT confirmed at 4.8,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.51,5/1/2024 13:47,DETECTED. RT confirmed at 4.8,18426,104841
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 14:04,DETECTED. RT confirmed at 4.8,16735,99742
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.52,5/1/2024 14:21,DETECTED. RT confirmed at 4.8,17130,97301
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 14:38,DETECTED. RT confirmed at 4.8,17964,99371
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 16:37,DETECTED. RT confirmed at 4.8,16489,93577
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.46,5/1/2024 18:36,DETECTED. RT confirmed at 4.8,17589,95619
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.43,5/1/2024 20:35,DETECTED. RT confirmed at 4.8,15591,92552
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/1/2024 22:35,DETECTED. RT confirmed at 4.8,14317,70279
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/2/2024 0:34,DETECTED. RT confirmed at 4.8,13380,67555
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.42,5/2/2024 2:33,DETECTED. RT confirmed at 4.8,13314,70985
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 13:13,DETECTED. RT confirmed at 4.8,0,0
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.43,5/2/2024 2:50,DETECTED. RT confirmed at 4.8,262,52
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 13:30,DETECTED. RT confirmed at 4.8,0,0
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/2/2024 3:07,DETECTED. RT confirmed at 4.8,0,0
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 8:58,DETECTED. RT confirmed at 4.8,0,0
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 10:06,DETECTED. RT confirmed at 4.8,0,0
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.47,5/1/2024 12:56,DETECTED. RT confirmed at 4.8,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.39,5/2/2024 1:42,DETECTED. RT confirmed at 4.8,24603,124631
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 16:20,DETECTED. RT confirmed at 4.8,29677,176117
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 16:54,DETECTED. RT confirmed at 4.8,35391,205600
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.42,5/1/2024 22:18,DETECTED. RT confirmed at 4.8,22210,122731
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 16:03,DETECTED. RT confirmed at 4.8,16477,97340
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 17:45,DETECTED. RT confirmed at 4.8,19819,115122
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.43,5/1/2024 20:52,DETECTED. RT confirmed at 4.8,25783,161905
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 15:29,DETECTED. RT confirmed at 4.8,19166,112009
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/2/2024 0:00,DETECTED. RT confirmed at 4.8,17690,83124
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 21:26,DETECTED. RT confirmed at 4.8,20297,106680
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 17:28,DETECTED. RT confirmed at 4.8,25200,140497
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 20:18,DETECTED. RT confirmed at 4.8,21162,109834
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.45,5/1/2024 19:44,DETECTED. RT confirmed at 4.8,13731,87203
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/2/2024 1:25,DETECTED. RT confirmed at 4.8,17441,86599
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 18:02,DETECTED. RT confirmed at 4.8,17484,100078
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 23:26,DETECTED. RT confirmed at 4.8,8231,40811
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.5,5/1/2024 15:12,DETECTED. RT confirmed at 4.8,20366,114475
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.45,5/1/2024 19:27,DETECTED. RT confirmed at 4.8,16248,102030
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/2/2024 1:08,DETECTED. RT confirmed at 4.8,10785,55193
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.42,5/1/2024 19:10,DETECTED. RT confirmed at 4.8,8677,48553
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 20:02,DETECTED. RT confirmed at 4.8,13002,72431
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/2/2024 0:51,DETECTED. RT confirmed at 4.8,9879,46078
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.51,5/1/2024 14:55,DETECTED. RT confirmed at 4.8,13516,71767
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 23:09,DETECTED. RT confirmed at 4.8,8991,44736
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/2/2024 0:17,DETECTED. RT confirmed at 4.8,8444,50264
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/1/2024 23:43,DETECTED. RT confirmed at 4.8,7273,31263
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.48,5/1/2024 15:46,DETECTED. RT confirmed at 4.8,14421,82239
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 22:52,DETECTED. RT confirmed at 4.8,10087,51073
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/1/2024 22:00,DETECTED. RT confirmed at 4.8,8837,46675
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.46,5/1/2024 18:19,DETECTED. RT confirmed at 4.8,7954,44441
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.41,5/1/2024 21:43,DETECTED. RT confirmed at 4.8,8241,49955
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.49,5/1/2024 17:11,DETECTED. RT confirmed at 4.8,12180,74802
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.4,5/2/2024 1:59,DETECTED. RT confirmed at 4.8,15199,73203
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.42,5/1/2024 21:09,DETECTED. RT confirmed at 4.8,8814,53676
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.45,5/1/2024 18:53,DETECTED. RT confirmed at 4.8,7938,47023
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_Long,"(C20:3) 5Z,8Z,11Z Eicosatrienoic acid",C20H34O2,305.248604,[M-H],light,4.39,5/2/2024 2:16,DETECTED. RT confirmed at 4.8,8515,43548
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.46,5/1/2024 8:41,DETECTED. RT confirmed at 6.4,361,1854
+cleanup_01,6495c_CE_pos_cleanup_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/2/2024 3:24,DETECTED. RT confirmed at 6.4,298,265
+PQC_01,6495c_CE_pos_PQC_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 13:47,DETECTED. RT confirmed at 6.4,78213,325940
+PQC_02,6495c_CE_pos_PQC_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 14:04,DETECTED. RT confirmed at 6.4,77942,328605
+PQC_03,6495c_CE_pos_PQC_03.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 14:21,DETECTED. RT confirmed at 6.4,78450,323175
+PQC_04,6495c_CE_pos_PQC_04.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 14:38,DETECTED. RT confirmed at 6.4,70285,304694
+PQC_05,6495c_CE_pos_PQC_05.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 16:37,DETECTED. RT confirmed at 6.4,69570,288022
+PQC_06,6495c_CE_pos_PQC_06.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.49,5/1/2024 18:36,DETECTED. RT confirmed at 6.4,67689,289191
+PQC_07,6495c_CE_pos_PQC_07.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/1/2024 20:35,DETECTED. RT confirmed at 6.4,63502,238004
+PQC_08,6495c_CE_pos_PQC_08.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 22:35,DETECTED. RT confirmed at 6.4,64631,234059
+PQC_09,6495c_CE_pos_PQC_09.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 0:34,DETECTED. RT confirmed at 6.4,59500,214452
+PQC_10,6495c_CE_pos_PQC_10.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 2:33,DETECTED. RT confirmed at 6.4,56591,212755
+mb_A_01,6495c_CE_pos_mb_A_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.53,5/1/2024 13:13,DETECTED. RT confirmed at 6.4,6213,31448
+mb_A_02,6495c_CE_pos_mb_A_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 2:50,DETECTED. RT confirmed at 6.4,4712,16831
+mb_B_01,6495c_CE_pos_mb_B_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.53,5/1/2024 13:30,DETECTED. RT confirmed at 6.4,6172,29866
+mb_B_02,6495c_CE_pos_mb_B_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 3:07,DETECTED. RT confirmed at 6.4,3353,12400
+sb_00,6495c_CE_pos_sb_00.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.59,5/1/2024 8:58,DETECTED. RT confirmed at 6.4,512,1370
+sb_01,6495c_CE_pos_sb_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.6,5/1/2024 10:06,DETECTED. RT confirmed at 6.4,374,452
+sb_02,6495c_CE_pos_sb_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.55,5/1/2024 12:56,DETECTED. RT confirmed at 6.4,316,121
+WT_0_A,6495c_CE_pos_WT_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.43,5/2/2024 1:42,DETECTED. RT confirmed at 6.4,84811,323503
+WT_0_B,6495c_CE_pos_WT_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 16:20,DETECTED. RT confirmed at 6.4,102613,447165
+WT_0_C,6495c_CE_pos_WT_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 16:54,DETECTED. RT confirmed at 6.4,122983,545757
+WT_10_A,6495c_CE_pos_WT_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/1/2024 22:18,DETECTED. RT confirmed at 6.4,135078,546827
+WT_10_B,6495c_CE_pos_WT_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 16:03,DETECTED. RT confirmed at 6.4,73119,301610
+WT_10_C,6495c_CE_pos_WT_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 17:45,DETECTED. RT confirmed at 6.4,88820,380628
+WT_100_A,6495c_CE_pos_WT_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.47,5/1/2024 20:52,DETECTED. RT confirmed at 6.4,139304,587616
+WT_100_B,6495c_CE_pos_WT_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 15:29,DETECTED. RT confirmed at 6.4,85985,369675
+WT_100_C,6495c_CE_pos_WT_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 0:00,DETECTED. RT confirmed at 6.4,122144,471705
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 21:26,DETECTED. RT confirmed at 6.4,92349,359146
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 17:28,DETECTED. RT confirmed at 6.4,110519,456372
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/1/2024 20:18,DETECTED. RT confirmed at 6.4,82625,323699
+IN_0_A,6495c_CE_pos_IN_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.47,5/1/2024 19:44,DETECTED. RT confirmed at 6.4,46710,202300
+IN_0_B,6495c_CE_pos_IN_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 1:25,DETECTED. RT confirmed at 6.4,45771,168908
+IN_0_C,6495c_CE_pos_IN_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 18:02,DETECTED. RT confirmed at 6.4,56514,247771
+IN_10_A,6495c_CE_pos_IN_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 23:26,DETECTED. RT confirmed at 6.4,48101,171398
+IN_10_B,6495c_CE_pos_IN_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 15:12,DETECTED. RT confirmed at 6.4,86973,371764
+IN_10_C,6495c_CE_pos_IN_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.46,5/1/2024 19:27,DETECTED. RT confirmed at 6.4,73081,302363
+IN_100_A,6495c_CE_pos_IN_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 1:08,DETECTED. RT confirmed at 6.4,30087,109417
+IN_100_B,6495c_CE_pos_IN_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.46,5/1/2024 19:10,DETECTED. RT confirmed at 6.4,26059,102703
+IN_100_C,6495c_CE_pos_IN_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.46,5/1/2024 20:02,DETECTED. RT confirmed at 6.4,45638,167341
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.43,5/2/2024 0:51,DETECTED. RT confirmed at 6.4,20072,71007
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.52,5/1/2024 14:55,DETECTED. RT confirmed at 6.4,30814,137346
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.43,5/1/2024 23:09,DETECTED. RT confirmed at 6.4,26699,95660
+INR_0_A,6495c_CE_pos_INR_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/2/2024 0:17,DETECTED. RT confirmed at 6.4,37546,137819
+INR_0_B,6495c_CE_pos_INR_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 23:43,DETECTED. RT confirmed at 6.4,25493,87537
+INR_0_C,6495c_CE_pos_INR_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 15:46,DETECTED. RT confirmed at 6.4,50460,222918
+INR_10_A,6495c_CE_pos_INR_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 22:52,DETECTED. RT confirmed at 6.4,66488,239440
+INR_10_B,6495c_CE_pos_INR_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 22:00,DETECTED. RT confirmed at 6.4,46339,179788
+INR_10_C,6495c_CE_pos_INR_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.49,5/1/2024 18:19,DETECTED. RT confirmed at 6.4,40806,172948
+INR_100_A,6495c_CE_pos_INR_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/1/2024 21:43,DETECTED. RT confirmed at 6.4,48237,180849
+INR_100_B,6495c_CE_pos_INR_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.51,5/1/2024 17:11,DETECTED. RT confirmed at 6.4,70951,298888
+INR_100_C,6495c_CE_pos_INR_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.43,5/2/2024 1:59,DETECTED. RT confirmed at 6.4,122612,477985
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.45,5/1/2024 21:09,DETECTED. RT confirmed at 6.4,59126,226888
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.48,5/1/2024 18:53,DETECTED. RT confirmed at 6.4,44717,194569
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.44,5/2/2024 2:16,DETECTED. RT confirmed at 6.4,60380,237450
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.93,5/1/2024 8:41,DETECTED. RT confirmed 6.7,463,2710
+cleanup_01,6495c_CE_pos_cleanup_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.86,5/2/2024 3:24,DETECTED. RT confirmed 6.7,454,2253
+PQC_01,6495c_CE_pos_PQC_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 13:47,DETECTED. RT confirmed 6.7,5115,40757
+PQC_02,6495c_CE_pos_PQC_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.7,5/1/2024 14:04,DETECTED. RT confirmed 6.7,4451,33040
+PQC_03,6495c_CE_pos_PQC_03.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 14:21,DETECTED. RT confirmed 6.7,5167,42300
+PQC_04,6495c_CE_pos_PQC_04.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 14:38,DETECTED. RT confirmed 6.7,5473,39618
+PQC_05,6495c_CE_pos_PQC_05.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.72,5/1/2024 16:37,DETECTED. RT confirmed 6.7,4649,39729
+PQC_06,6495c_CE_pos_PQC_06.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.69,5/1/2024 18:36,DETECTED. RT confirmed 6.7,3667,21789
+PQC_07,6495c_CE_pos_PQC_07.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/1/2024 20:35,DETECTED. RT confirmed 6.7,3659,17376
+PQC_08,6495c_CE_pos_PQC_08.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 22:35,DETECTED. RT confirmed 6.7,4197,22983
+PQC_09,6495c_CE_pos_PQC_09.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 0:34,DETECTED. RT confirmed 6.7,3985,16996
+PQC_10,6495c_CE_pos_PQC_10.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 2:33,DETECTED. RT confirmed 6.7,3569,16518
+mb_A_01,6495c_CE_pos_mb_A_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.73,5/1/2024 13:13,DETECTED. RT confirmed 6.7,2857,19923
+mb_A_02,6495c_CE_pos_mb_A_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.63,5/2/2024 2:50,DETECTED. RT confirmed 6.7,3094,16095
+mb_B_01,6495c_CE_pos_mb_B_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.71,5/1/2024 13:30,DETECTED. RT confirmed 6.7,2199,12839
+mb_B_02,6495c_CE_pos_mb_B_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/2/2024 3:07,DETECTED. RT confirmed 6.7,2256,12720
+sb_00,6495c_CE_pos_sb_00.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.94,5/1/2024 8:58,DETECTED. RT confirmed 6.7,690,4606
+sb_01,6495c_CE_pos_sb_01.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.89,5/1/2024 10:06,DETECTED. RT confirmed 6.7,765,3899
+sb_02,6495c_CE_pos_sb_02.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.94,5/1/2024 12:56,DETECTED. RT confirmed 6.7,602,1151
+WT_0_A,6495c_CE_pos_WT_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 1:42,DETECTED. RT confirmed 6.7,6273,29171
+WT_0_B,6495c_CE_pos_WT_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.72,5/1/2024 16:20,DETECTED. RT confirmed 6.7,7239,61904
+WT_0_C,6495c_CE_pos_WT_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.7,5/1/2024 16:54,DETECTED. RT confirmed 6.7,8002,65385
+WT_10_A,6495c_CE_pos_WT_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 22:18,DETECTED. RT confirmed 6.7,4735,21550
+WT_10_B,6495c_CE_pos_WT_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.72,5/1/2024 16:03,DETECTED. RT confirmed 6.7,3934,31298
+WT_10_C,6495c_CE_pos_WT_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.6,5/1/2024 17:45,DETECTED. RT confirmed 6.7,4069,24018
+WT_100_A,6495c_CE_pos_WT_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.67,5/1/2024 20:52,DETECTED. RT confirmed 6.7,4852,26108
+WT_100_B,6495c_CE_pos_WT_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 15:29,DETECTED. RT confirmed 6.7,5133,35509
+WT_100_C,6495c_CE_pos_WT_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/2/2024 0:00,DETECTED. RT confirmed 6.7,3849,20061
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 21:26,DETECTED. RT confirmed 6.7,4609,20355
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.71,5/1/2024 17:28,DETECTED. RT confirmed 6.7,4331,30346
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/1/2024 20:18,DETECTED. RT confirmed 6.7,3881,19247
+IN_0_A,6495c_CE_pos_IN_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/1/2024 19:44,DETECTED. RT confirmed 6.7,4976,33586
+IN_0_B,6495c_CE_pos_IN_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 1:25,DETECTED. RT confirmed 6.7,4416,22769
+IN_0_C,6495c_CE_pos_IN_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.71,5/1/2024 18:02,DETECTED. RT confirmed 6.7,5517,44213
+IN_10_A,6495c_CE_pos_IN_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.63,5/1/2024 23:26,DETECTED. RT confirmed 6.7,3724,16723
+IN_10_B,6495c_CE_pos_IN_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 15:12,DETECTED. RT confirmed 6.7,5879,41400
+IN_10_C,6495c_CE_pos_IN_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/1/2024 19:27,DETECTED. RT confirmed 6.7,3897,26910
+IN_100_A,6495c_CE_pos_IN_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/2/2024 1:08,DETECTED. RT confirmed 6.7,3311,15214
+IN_100_B,6495c_CE_pos_IN_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/1/2024 19:10,DETECTED. RT confirmed 6.7,3110,14539
+IN_100_C,6495c_CE_pos_IN_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/1/2024 20:02,DETECTED. RT confirmed 6.7,3756,20761
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 0:51,DETECTED. RT confirmed 6.7,2744,16648
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.61,5/1/2024 14:55,DETECTED. RT confirmed 6.7,3518,26026
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 23:09,DETECTED. RT confirmed 6.7,3477,19219
+INR_0_A,6495c_CE_pos_INR_0A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/2/2024 0:17,DETECTED. RT confirmed 6.7,4237,25854
+INR_0_B,6495c_CE_pos_INR_0B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.63,5/1/2024 23:43,DETECTED. RT confirmed 6.7,3687,19534
+INR_0_C,6495c_CE_pos_INR_0C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.71,5/1/2024 15:46,DETECTED. RT confirmed 6.7,4827,40788
+INR_10_A,6495c_CE_pos_INR_10A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 22:52,DETECTED. RT confirmed 6.7,3941,21837
+INR_10_B,6495c_CE_pos_INR_10B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.65,5/1/2024 22:00,DETECTED. RT confirmed 6.7,3287,15393
+INR_10_C,6495c_CE_pos_INR_10C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.7,5/1/2024 18:19,DETECTED. RT confirmed 6.7,3638,23849
+INR_100_A,6495c_CE_pos_INR_100A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.66,5/1/2024 21:43,DETECTED. RT confirmed 6.7,3465,16718
+INR_100_B,6495c_CE_pos_INR_100B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.6,5/1/2024 17:11,DETECTED. RT confirmed 6.7,3760,29368
+INR_100_C,6495c_CE_pos_INR_100C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.62,5/2/2024 1:59,DETECTED. RT confirmed 6.7,4621,21801
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/1/2024 21:09,DETECTED. RT confirmed 6.7,3644,20045
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.67,5/1/2024 18:53,DETECTED. RT confirmed 6.7,3796,25004
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Mono-unsaturated Fatty Acids_Long,(C20:1) trans-11-Eicosenoic acid,C20H38O2,309.279905,[M-H],light,6.64,5/2/2024 2:16,DETECTED. RT confirmed 6.7,4220,19529
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.72,5/1/2024 8:41,DETECTED. RT confirmed at 5.9,482,6336
+cleanup_01,6495c_CE_pos_cleanup_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.88,5/2/2024 3:24,DETECTED. RT confirmed at 5.9,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 13:47,DETECTED. RT confirmed at 5.9,8984,72962
+PQC_02,6495c_CE_pos_PQC_02.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 14:04,DETECTED. RT confirmed at 5.9,9640,73989
+PQC_03,6495c_CE_pos_PQC_03.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.86,5/1/2024 14:21,DETECTED. RT confirmed at 5.9,9320,71865
+PQC_04,6495c_CE_pos_PQC_04.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.86,5/1/2024 14:38,DETECTED. RT confirmed at 5.9,8785,66629
+PQC_05,6495c_CE_pos_PQC_05.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 16:37,DETECTED. RT confirmed at 5.9,8398,65126
+PQC_06,6495c_CE_pos_PQC_06.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.8,5/1/2024 18:36,DETECTED. RT confirmed at 5.9,7756,61864
+PQC_07,6495c_CE_pos_PQC_07.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.79,5/1/2024 20:35,DETECTED. RT confirmed at 5.9,7688,58117
+PQC_08,6495c_CE_pos_PQC_08.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.76,5/1/2024 22:35,DETECTED. RT confirmed at 5.9,7491,57191
+PQC_09,6495c_CE_pos_PQC_09.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 0:34,DETECTED. RT confirmed at 5.9,7126,54463
+PQC_10,6495c_CE_pos_PQC_10.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 2:33,DETECTED. RT confirmed at 5.9,6711,52535
+mb_A_01,6495c_CE_pos_mb_A_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.93,5/1/2024 13:13,DETECTED. RT confirmed at 5.9,1151,11993
+mb_A_02,6495c_CE_pos_mb_A_02.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.81,5/2/2024 2:50,DETECTED. RT confirmed at 5.9,1441,12151
+mb_B_01,6495c_CE_pos_mb_B_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.91,5/1/2024 13:30,DETECTED. RT confirmed at 5.9,1304,11375
+mb_B_02,6495c_CE_pos_mb_B_02.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.79,5/2/2024 3:07,DETECTED. RT confirmed at 5.9,946,9590
+sb_00,6495c_CE_pos_sb_00.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.95,5/1/2024 8:58,DETECTED. RT confirmed at 5.9,332,181
+sb_01,6495c_CE_pos_sb_01.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.82,5/1/2024 10:06,DETECTED. RT confirmed at 5.9,304,119
+sb_02,6495c_CE_pos_sb_02.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.88,5/1/2024 12:56,DETECTED. RT confirmed at 5.9,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.76,5/2/2024 1:42,DETECTED. RT confirmed at 5.9,12984,98184
+WT_0_B,6495c_CE_pos_WT_0B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 16:20,DETECTED. RT confirmed at 5.9,14671,107427
+WT_0_C,6495c_CE_pos_WT_0C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 16:54,DETECTED. RT confirmed at 5.9,16989,123606
+WT_10_A,6495c_CE_pos_WT_10A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.75,5/1/2024 22:18,DETECTED. RT confirmed at 5.9,13835,100479
+WT_10_B,6495c_CE_pos_WT_10B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 16:03,DETECTED. RT confirmed at 5.9,8165,66773
+WT_10_C,6495c_CE_pos_WT_10C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 17:45,DETECTED. RT confirmed at 5.9,10206,72820
+WT_100_A,6495c_CE_pos_WT_100A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.78,5/1/2024 20:52,DETECTED. RT confirmed at 5.9,15077,110080
+WT_100_B,6495c_CE_pos_WT_100B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 15:29,DETECTED. RT confirmed at 5.9,9802,80731
+WT_100_C,6495c_CE_pos_WT_100C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 0:00,DETECTED. RT confirmed at 5.9,12343,86743
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/1/2024 21:26,DETECTED. RT confirmed at 5.9,11495,83249
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 17:28,DETECTED. RT confirmed at 5.9,11759,87064
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/1/2024 20:18,DETECTED. RT confirmed at 5.9,9826,75118
+IN_0_A,6495c_CE_pos_IN_0A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.81,5/1/2024 19:44,DETECTED. RT confirmed at 5.9,6713,55953
+IN_0_B,6495c_CE_pos_IN_0B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 1:25,DETECTED. RT confirmed at 5.9,7948,63865
+IN_0_C,6495c_CE_pos_IN_0C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 18:02,DETECTED. RT confirmed at 5.9,7479,62025
+IN_10_A,6495c_CE_pos_IN_10A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.76,5/1/2024 23:26,DETECTED. RT confirmed at 5.9,5542,49750
+IN_10_B,6495c_CE_pos_IN_10B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.85,5/1/2024 15:12,DETECTED. RT confirmed at 5.9,9835,73546
+IN_10_C,6495c_CE_pos_IN_10C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.8,5/1/2024 19:27,DETECTED. RT confirmed at 5.9,7838,62830
+IN_100_A,6495c_CE_pos_IN_100A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 1:08,DETECTED. RT confirmed at 5.9,4636,41534
+IN_100_B,6495c_CE_pos_IN_100B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/1/2024 19:10,DETECTED. RT confirmed at 5.9,3407,32272
+IN_100_C,6495c_CE_pos_IN_100C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.79,5/1/2024 20:02,DETECTED. RT confirmed at 5.9,5588,46593
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 0:51,DETECTED. RT confirmed at 5.9,3380,31983
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.86,5/1/2024 14:55,DETECTED. RT confirmed at 5.9,4593,41596
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.76,5/1/2024 23:09,DETECTED. RT confirmed at 5.9,3861,36719
+INR_0_A,6495c_CE_pos_INR_0A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.78,5/2/2024 0:17,DETECTED. RT confirmed at 5.9,5546,46320
+INR_0_B,6495c_CE_pos_INR_0B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.75,5/1/2024 23:43,DETECTED. RT confirmed at 5.9,4304,36400
+INR_0_C,6495c_CE_pos_INR_0C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 15:46,DETECTED. RT confirmed at 5.9,7218,61216
+INR_10_A,6495c_CE_pos_INR_10A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.76,5/1/2024 22:52,DETECTED. RT confirmed at 5.9,7351,53402
+INR_10_B,6495c_CE_pos_INR_10B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.78,5/1/2024 22:00,DETECTED. RT confirmed at 5.9,5335,44240
+INR_10_C,6495c_CE_pos_INR_10C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.83,5/1/2024 18:19,DETECTED. RT confirmed at 5.9,4777,38185
+INR_100_A,6495c_CE_pos_INR_100A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.78,5/1/2024 21:43,DETECTED. RT confirmed at 5.9,5265,44897
+INR_100_B,6495c_CE_pos_INR_100B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.84,5/1/2024 17:11,DETECTED. RT confirmed at 5.9,7639,59992
+INR_100_C,6495c_CE_pos_INR_100C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.74,5/2/2024 1:59,DETECTED. RT confirmed at 5.9,11948,91201
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.78,5/1/2024 21:09,DETECTED. RT confirmed at 5.9,6270,53692
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.82,5/1/2024 18:53,DETECTED. RT confirmed at 5.9,4563,41388
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Mono-unsaturated Fatty Acids_Long,(C19:1) 10Z-Nonadecenoic acid,C19H36O2,295.264255,[M-H],light,5.77,5/2/2024 2:16,DETECTED. RT confirmed at 5.9,6392,53983
+wakeup_01,6495c_CE_pos_wakeup_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.29,5/1/2024 8:41,DETECTED. RT confirmed at 3.1,0,0
+cleanup_01,6495c_CE_pos_cleanup_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.3,5/2/2024 3:24,DETECTED. RT confirmed at 3.1,0,0
+PQC_01,6495c_CE_pos_PQC_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 13:47,DETECTED. RT confirmed at 3.1,14715,124589
+PQC_02,6495c_CE_pos_PQC_02.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 14:04,DETECTED. RT confirmed at 3.1,14644,121563
+PQC_03,6495c_CE_pos_PQC_03.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.08,5/1/2024 14:21,DETECTED. RT confirmed at 3.1,13784,116649
+PQC_04,6495c_CE_pos_PQC_04.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.06,5/1/2024 14:38,DETECTED. RT confirmed at 3.1,14204,114101
+PQC_05,6495c_CE_pos_PQC_05.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 16:37,DETECTED. RT confirmed at 3.1,14076,108311
+PQC_06,6495c_CE_pos_PQC_06.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.01,5/1/2024 18:36,DETECTED. RT confirmed at 3.1,13786,107081
+PQC_07,6495c_CE_pos_PQC_07.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.99,5/1/2024 20:35,DETECTED. RT confirmed at 3.1,13050,102375
+PQC_08,6495c_CE_pos_PQC_08.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/1/2024 22:35,DETECTED. RT confirmed at 3.1,13714,99901
+PQC_09,6495c_CE_pos_PQC_09.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/2/2024 0:34,DETECTED. RT confirmed at 3.1,12796,97625
+PQC_10,6495c_CE_pos_PQC_10.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/2/2024 2:33,DETECTED. RT confirmed at 3.1,12706,92623
+mb_A_01,6495c_CE_pos_mb_A_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.49,5/1/2024 13:13,DETECTED. RT confirmed at 3.1,484,2732
+mb_A_02,6495c_CE_pos_mb_A_02.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.35,5/2/2024 2:50,DETECTED. RT confirmed at 3.1,613,6232
+mb_B_01,6495c_CE_pos_mb_B_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.43,5/1/2024 13:30,DETECTED. RT confirmed at 3.1,554,4883
+mb_B_02,6495c_CE_pos_mb_B_02.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.38,5/2/2024 3:07,DETECTED. RT confirmed at 3.1,470,4552
+sb_00,6495c_CE_pos_sb_00.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.29,5/1/2024 8:58,DETECTED. RT confirmed at 3.1,0,0
+sb_01,6495c_CE_pos_sb_01.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.29,5/1/2024 10:06,DETECTED. RT confirmed at 3.1,0,0
+sb_02,6495c_CE_pos_sb_02.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.29,5/1/2024 12:56,DETECTED. RT confirmed at 3.1,0,0
+WT_0_A,6495c_CE_pos_WT_0A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.96,5/2/2024 1:42,DETECTED. RT confirmed at 3.1,23730,196127
+WT_0_B,6495c_CE_pos_WT_0B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.04,5/1/2024 16:20,DETECTED. RT confirmed at 3.1,26577,216008
+WT_0_C,6495c_CE_pos_WT_0C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.06,5/1/2024 16:54,DETECTED. RT confirmed at 3.1,26708,223061
+WT_10_A,6495c_CE_pos_WT_10A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 22:18,DETECTED. RT confirmed at 3.1,20129,164839
+WT_10_B,6495c_CE_pos_WT_10B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.04,5/1/2024 16:03,DETECTED. RT confirmed at 3.1,15442,124396
+WT_10_C,6495c_CE_pos_WT_10C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.04,5/1/2024 17:45,DETECTED. RT confirmed at 3.1,14207,113907
+WT_100_A,6495c_CE_pos_WT_100A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/1/2024 20:52,DETECTED. RT confirmed at 3.1,21356,181386
+WT_100_B,6495c_CE_pos_WT_100B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 15:29,DETECTED. RT confirmed at 3.1,17742,142926
+WT_100_C,6495c_CE_pos_WT_100C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.95,5/2/2024 0:00,DETECTED. RT confirmed at 3.1,15759,128871
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/1/2024 21:26,DETECTED. RT confirmed at 3.1,16986,138003
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 17:28,DETECTED. RT confirmed at 3.1,16849,135261
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/1/2024 20:18,DETECTED. RT confirmed at 3.1,15596,130062
+IN_0_A,6495c_CE_pos_IN_0A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.01,5/1/2024 19:44,DETECTED. RT confirmed at 3.1,10631,95082
+IN_0_B,6495c_CE_pos_IN_0B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/2/2024 1:25,DETECTED. RT confirmed at 3.1,16644,132413
+IN_0_C,6495c_CE_pos_IN_0C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 18:02,DETECTED. RT confirmed at 3.1,12735,102737
+IN_10_A,6495c_CE_pos_IN_10A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.95,5/1/2024 23:26,DETECTED. RT confirmed at 3.1,9876,81441
+IN_10_B,6495c_CE_pos_IN_10B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.06,5/1/2024 15:12,DETECTED. RT confirmed at 3.1,14567,118964
+IN_10_C,6495c_CE_pos_IN_10C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.99,5/1/2024 19:27,DETECTED. RT confirmed at 3.1,13963,109142
+IN_100_A,6495c_CE_pos_IN_100A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.99,5/2/2024 1:08,DETECTED. RT confirmed at 3.1,10641,87531
+IN_100_B,6495c_CE_pos_IN_100B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.99,5/1/2024 19:10,DETECTED. RT confirmed at 3.1,6026,49258
+IN_100_C,6495c_CE_pos_IN_100C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 20:02,DETECTED. RT confirmed at 3.1,9800,77244
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/2/2024 0:51,DETECTED. RT confirmed at 3.1,8581,65141
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 14:55,DETECTED. RT confirmed at 3.1,9062,77676
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 23:09,DETECTED. RT confirmed at 3.1,7931,68864
+INR_0_A,6495c_CE_pos_INR_0A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/2/2024 0:17,DETECTED. RT confirmed at 3.1,9399,81647
+INR_0_B,6495c_CE_pos_INR_0B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.96,5/1/2024 23:43,DETECTED. RT confirmed at 3.1,7949,66798
+INR_0_C,6495c_CE_pos_INR_0C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.05,5/1/2024 15:46,DETECTED. RT confirmed at 3.1,16381,127567
+INR_10_A,6495c_CE_pos_INR_10A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 22:52,DETECTED. RT confirmed at 3.1,11200,94079
+INR_10_B,6495c_CE_pos_INR_10B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.98,5/1/2024 22:00,DETECTED. RT confirmed at 3.1,9146,75903
+INR_10_C,6495c_CE_pos_INR_10C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.01,5/1/2024 18:19,DETECTED. RT confirmed at 3.1,7549,58895
+INR_100_A,6495c_CE_pos_INR_100A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 21:43,DETECTED. RT confirmed at 3.1,8602,71754
+INR_100_B,6495c_CE_pos_INR_100B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.03,5/1/2024 17:11,DETECTED. RT confirmed at 3.1,10402,93163
+INR_100_C,6495c_CE_pos_INR_100C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.96,5/2/2024 1:59,DETECTED. RT confirmed at 3.1,15585,129816
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/1/2024 21:09,DETECTED. RT confirmed at 3.1,9639,81092
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,3.04,5/1/2024 18:53,DETECTED. RT confirmed at 3.1,6823,61754
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Poly-unsaturated Fatty Acids_Long,(C18:2) 11-Octadecen-9-ynoic acid,C18H30O2,277.217304,[M-H],light,2.97,5/2/2024 2:16,DETECTED. RT confirmed at 3.1,9485,83359
+wakeup_01,6495c_CE_pos_wakeup_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,4.06,5/1/2024 8:41,DETECTED. RT confirmed 3.5,240,543
+cleanup_01,6495c_CE_pos_cleanup_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.95,5/2/2024 3:24,DETECTED. RT confirmed 3.5,268,1373
+PQC_01,6495c_CE_pos_PQC_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.97,5/1/2024 13:47,DETECTED. RT confirmed 3.5,81372,508914
+PQC_02,6495c_CE_pos_PQC_02.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 14:04,DETECTED. RT confirmed 3.5,77489,490236
+PQC_03,6495c_CE_pos_PQC_03.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.99,5/1/2024 14:21,DETECTED. RT confirmed 3.5,79244,458523
+PQC_04,6495c_CE_pos_PQC_04.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.99,5/1/2024 14:38,DETECTED. RT confirmed 3.5,78956,463124
+PQC_05,6495c_CE_pos_PQC_05.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 16:37,DETECTED. RT confirmed 3.5,75547,442395
+PQC_06,6495c_CE_pos_PQC_06.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.93,5/1/2024 18:36,DETECTED. RT confirmed 3.5,75399,479870
+PQC_07,6495c_CE_pos_PQC_07.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.9,5/1/2024 20:35,DETECTED. RT confirmed 3.5,71541,501975
+PQC_08,6495c_CE_pos_PQC_08.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/1/2024 22:35,DETECTED. RT confirmed 3.5,69120,504465
+PQC_09,6495c_CE_pos_PQC_09.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/2/2024 0:34,DETECTED. RT confirmed 3.5,68572,493008
+PQC_10,6495c_CE_pos_PQC_10.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/2/2024 2:33,DETECTED. RT confirmed 3.5,68227,479325
+mb_A_01,6495c_CE_pos_mb_A_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.98,5/1/2024 13:13,DETECTED. RT confirmed 3.5,9876,65941
+mb_A_02,6495c_CE_pos_mb_A_02.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.84,5/2/2024 2:50,DETECTED. RT confirmed 3.5,11070,114343
+mb_B_01,6495c_CE_pos_mb_B_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.99,5/1/2024 13:30,DETECTED. RT confirmed 3.5,11470,76019
+mb_B_02,6495c_CE_pos_mb_B_02.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.85,5/2/2024 3:07,DETECTED. RT confirmed 3.5,9641,99443
+sb_00,6495c_CE_pos_sb_00.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.88,5/1/2024 8:58,DETECTED. RT confirmed 3.5,383,1548
+sb_01,6495c_CE_pos_sb_01.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.68,5/1/2024 10:06,DETECTED. RT confirmed 3.5,590,6291
+sb_02,6495c_CE_pos_sb_02.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/1/2024 12:56,DETECTED. RT confirmed 3.5,399,1987
+WT_0_A,6495c_CE_pos_WT_0A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/2/2024 1:42,DETECTED. RT confirmed 3.5,127734,850997
+WT_0_B,6495c_CE_pos_WT_0B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.97,5/1/2024 16:20,DETECTED. RT confirmed 3.5,125275,798305
+WT_0_C,6495c_CE_pos_WT_0C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 16:54,DETECTED. RT confirmed 3.5,144661,924555
+WT_10_A,6495c_CE_pos_WT_10A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.89,5/1/2024 22:18,DETECTED. RT confirmed 3.5,104909,687294
+WT_10_B,6495c_CE_pos_WT_10B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 16:03,DETECTED. RT confirmed 3.5,74173,475611
+WT_10_C,6495c_CE_pos_WT_10C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.95,5/1/2024 17:45,DETECTED. RT confirmed 3.5,81806,499583
+WT_100_A,6495c_CE_pos_WT_100A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.89,5/1/2024 20:52,DETECTED. RT confirmed 3.5,117661,738397
+WT_100_B,6495c_CE_pos_WT_100B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.97,5/1/2024 15:29,DETECTED. RT confirmed 3.5,91126,574150
+WT_100_C,6495c_CE_pos_WT_100C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/2/2024 0:00,DETECTED. RT confirmed 3.5,88842,570763
+WT_1000_A,6495c_CE_pos_WT_1000A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.88,5/1/2024 21:26,DETECTED. RT confirmed 3.5,98717,624512
+WT_1000_B,6495c_CE_pos_WT_1000B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.95,5/1/2024 17:28,DETECTED. RT confirmed 3.5,97799,590941
+WT_1000_C,6495c_CE_pos_WT_1000C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.89,5/1/2024 20:18,DETECTED. RT confirmed 3.5,85559,548845
+IN_0_A,6495c_CE_pos_IN_0A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.92,5/1/2024 19:44,DETECTED. RT confirmed 3.5,68920,435618
+IN_0_B,6495c_CE_pos_IN_0B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/2/2024 1:25,DETECTED. RT confirmed 3.5,81897,508317
+IN_0_C,6495c_CE_pos_IN_0C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 18:02,DETECTED. RT confirmed 3.5,76276,466352
+IN_10_A,6495c_CE_pos_IN_10A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/1/2024 23:26,DETECTED. RT confirmed 3.5,54005,359646
+IN_10_B,6495c_CE_pos_IN_10B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.98,5/1/2024 15:12,DETECTED. RT confirmed 3.5,82188,500135
+IN_10_C,6495c_CE_pos_IN_10C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.9,5/1/2024 19:27,DETECTED. RT confirmed 3.5,74663,456104
+IN_100_A,6495c_CE_pos_IN_100A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/2/2024 1:08,DETECTED. RT confirmed 3.5,55645,355173
+IN_100_B,6495c_CE_pos_IN_100B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.9,5/1/2024 19:10,DETECTED. RT confirmed 3.5,39512,238259
+IN_100_C,6495c_CE_pos_IN_100C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.88,5/1/2024 20:02,DETECTED. RT confirmed 3.5,54581,334867
+IN_1000_A,6495c_CE_pos_IN_1000A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/2/2024 0:51,DETECTED. RT confirmed 3.5,48714,282928
+IN_1000_B,6495c_CE_pos_IN_1000B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.97,5/1/2024 14:55,DETECTED. RT confirmed 3.5,52245,324527
+IN_1000_C,6495c_CE_pos_IN_1000C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/1/2024 23:09,DETECTED. RT confirmed 3.5,47514,301487
+INR_0_A,6495c_CE_pos_INR_0A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.89,5/2/2024 0:17,DETECTED. RT confirmed 3.5,46804,308659
+INR_0_B,6495c_CE_pos_INR_0B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.85,5/1/2024 23:43,DETECTED. RT confirmed 3.5,43052,259697
+INR_0_C,6495c_CE_pos_INR_0C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 15:46,DETECTED. RT confirmed 3.5,69855,436889
+INR_10_A,6495c_CE_pos_INR_10A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/1/2024 22:52,DETECTED. RT confirmed 3.5,56096,347068
+INR_10_B,6495c_CE_pos_INR_10B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.88,5/1/2024 22:00,DETECTED. RT confirmed 3.5,47014,297623
+INR_10_C,6495c_CE_pos_INR_10C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.94,5/1/2024 18:19,DETECTED. RT confirmed 3.5,38865,239035
+INR_100_A,6495c_CE_pos_INR_100A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/1/2024 21:43,DETECTED. RT confirmed 3.5,45279,289141
+INR_100_B,6495c_CE_pos_INR_100B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.96,5/1/2024 17:11,DETECTED. RT confirmed 3.5,58703,370072
+INR_100_C,6495c_CE_pos_INR_100C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.86,5/2/2024 1:59,DETECTED. RT confirmed 3.5,83024,526517
+INR_1000_A,6495c_CE_pos_INR_1000A.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.89,5/1/2024 21:09,DETECTED. RT confirmed 3.5,51798,327524
+INR_1000_B,6495c_CE_pos_INR_1000B.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.92,5/1/2024 18:53,DETECTED. RT confirmed 3.5,42000,258897
+INR_1000_C,6495c_CE_pos_INR_1000C.d,Mono-unsaturated Fatty Acids_Long,(C18:1) 17-Octadecynoic acid,C18H32O2,279.232954,[M-H],light,3.87,5/2/2024 2:16,DETECTED. RT confirmed 3.5,50823,334553

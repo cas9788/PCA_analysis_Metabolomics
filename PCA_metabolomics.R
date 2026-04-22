@@ -15,6 +15,7 @@ library(patchwork)
 library(ggrepel)
 library(DT)
 library(ggplot2)
+library(tidyr)
 
 # Define color palette
 MediaPalette <- c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3", "#FF7F00",
@@ -230,20 +231,42 @@ server <- function(input, output, session) {
           filter(is.na(CV) | CV <= input$cv_threshold)
        }
 
-       # Blank check
+      # Blank check
       incProgress(0.5, detail = "Checking blanks")
-
+      
       if ("Condition" %in% names(long_MS_Int)) {
-        blank_check <- tryCatch({
-          long_MS_Int %>%
-            group_by(Compound, Condition) %>%
-            summarise(meanIntensity = mean(intensity, na.rm = TRUE), .groups = "drop") %>%
-            pivot_wider(names_from = Condition, values_from = meanIntensity) %>%
-            mutate(across(where(is.numeric), ~replace_na(., 0)))
-        }, error = function(e) NULL)
-
+        
+        # Compute mean QC and blank intensities per compound
+        blank_check <- long_MS_Int %>%
+          group_by(Compound) %>%
+          dplyr::summarise(
+            mean_QC = mean(intensity[Type == "QC"], na.rm = TRUE),
+            mean_MethodBlank = mean(intensity[Type == "M"], na.rm = TRUE),
+            mean_SolventBlank = mean(intensity[Type == "S"], na.rm = TRUE),
+            .groups = "drop"
+          ) %>%
+          mutate(
+            Percent_MethodBlank = ifelse(mean_QC > 0,
+                                         mean_MethodBlank / mean_QC * 100, NA_real_),
+            Percent_SolventBlank = ifelse(mean_QC > 0,
+                                          mean_SolventBlank / mean_QC * 100, NA_real_)
+          ) %>%
+          mutate(across(starts_with("Percent"), ~replace_na(., 0))) %>%
+          mutate(sum_blank = Percent_MethodBlank + Percent_SolventBlank) %>%
+          arrange(desc(sum_blank))
+        
         rv$blank_check <- blank_check
+        
+        # Filter based on user threshold
+        remove_compounds <- blank_check %>%
+          filter(sum_blank >= input$blank_threshold) %>%
+          pull(Compound)
+        
+        # Remove contaminated features
+        #long_MS_Int <- long_MS_Int %>%
+         # filter(!Compound %in% remove_compounds)
       }
+      
       
       # Prepare for PCA
       incProgress(0.6, detail = "Preparing PCA data")
