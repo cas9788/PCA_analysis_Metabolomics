@@ -70,7 +70,12 @@ ui <- fluidPage(
                  h4("Blank Background Check"),
                  DTOutput("blank_check_table"),
                  hr(),
-                 verbatimTextOutput("blank_summary")),
+                 verbatimTextOutput("blank_summary"),
+                 hr(),
+                 h4('Features Flagged (Percent Blank > threshold)'),
+                 DTOutput('high_blank_table'),
+                 hr(),
+                 downloadButton('download_high_blank','Download High Blank Features')),
 
         tabPanel("PCA Plots",
                  plotOutput("pca_combined", height = "800px"),
@@ -103,6 +108,7 @@ server <- function(input, output, session) {
     cv_data = NULL,
     high_cv = NULL,
     blank_check = NULL,
+    high_blank = NULL,
     pca_result = NULL,
     wide_overview = NULL
   )
@@ -263,8 +269,12 @@ server <- function(input, output, session) {
           pull(Compound)
         
         # Remove contaminated features
-        #long_MS_Int <- long_MS_Int %>%
-         # filter(!Compound %in% remove_compounds)
+        long_MS_Int <- long_MS_Int %>%
+        filter(!Compound %in% remove_compounds)
+        
+        # High Blank features
+        high_blank <- blank_check %>% filter(sum_blank >= input$blank_threshold)
+        rv$high_blank <- high_blank
       }
       
       
@@ -365,7 +375,24 @@ server <- function(input, output, session) {
     cat("Blank check completed.\n")
     cat("Features checked:", nrow(rv$blank_check), "\n")
   })
-
+  
+  #High Blank table
+  output$high_blank_table <- renderDT({
+    req(rv$high_blank)
+    datatable(rv$high_blank, options = list(pageLength = 15, scrollX = TRUE)) %>%
+      formatRound("sum_blank", 2)
+  })
+  
+  #Download High Blank
+  output$download_high_blank <- downloadHandler(
+    filename = function() {
+      paste0("Features_flagged_high_blank_", Sys.Date(), ".csv")
+    },
+    content = function(file) {
+      write.csv(rv$high_blank, file, row.names = FALSE)
+    }
+  )
+  
   # Generate PCA plots
   pca_plots <- reactive({
     req(processed_data())
